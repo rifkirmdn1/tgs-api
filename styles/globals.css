@@ -27,7 +27,6 @@ button:hover {
     background-image: url("/seaa.jpg");
     background-size: cover; 
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
     filter: drop-shadow(10px 10px 10px rgba(12, 68, 105, 0.237));
     font-size: 30px;
     font-weight: 5rem;
